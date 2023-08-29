@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.0-beta.3
+
+### Patch Changes
+
+- [#427](https://github.com/blockchain-lab-um/masca/pull/427) [`1df1a22`](https://github.com/blockchain-lab-um/masca/commit/1df1a220ba1f3331910392dabfe95cfe13b1cccc) Thanks [@tadejpodrekar](https://github.com/tadejpodrekar)! - Renamed args to params and added params objects where needed.
+
+- [#427](https://github.com/blockchain-lab-um/masca/pull/427) [`1df1a22`](https://github.com/blockchain-lab-um/masca/commit/1df1a220ba1f3331910392dabfe95cfe13b1cccc) Thanks [@tadejpodrekar](https://github.com/tadejpodrekar)! - Refactored UI Service class to use methods.
+
 ## 1.0.0-beta.2
 
 ### Patch Changes
